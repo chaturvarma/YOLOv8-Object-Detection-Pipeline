@@ -56,3 +56,5 @@ To use your system's webcam for real-time object detection, run:
 ```bash
 python inference.py --mode webcam
 ```
+
+The `inputs/` folder contains sample image and video files that can be used for testing directly. The `outputs/` folder contains sample output results corresponding to the input files.
